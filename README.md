@@ -1,1 +1,1 @@
-# blog
+Install minikube
