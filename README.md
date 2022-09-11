@@ -1,1 +1,1 @@
-Install minikube
+Repositório com códigos utilizados nos blogs
