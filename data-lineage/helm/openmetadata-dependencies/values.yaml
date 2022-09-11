@@ -117,7 +117,7 @@ airflow:
       gitSync:
         enabled: true
         repo: https://github.com/tiagotxm/blog.git
-        repoSubPath: "airflow/data-lineage/dags"
+        repoSubPath: "data-lineage/dags"
 
   logs:
     persistence:
